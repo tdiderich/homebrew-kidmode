@@ -1,7 +1,7 @@
 class Kidmode < Formula
   desc "Toddler keyboard sandbox — colorful visual and audio feedback from keyboard mashing"
   homepage "https://github.com/tdiderich/kidmode"
-  url "https://github.com/tdiderich/kidmode.git", tag: "v0.1.0"
+  url "https://github.com/tdiderich/kidmode.git", tag: "v0.2.0"
   license "MIT"
 
   depends_on "go" => :build
